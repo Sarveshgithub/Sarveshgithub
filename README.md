@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh</h1>
-<h4 align="center">Writing code since 2013 mainly JS, C++, PHP and currently working in Salesforce tech stack since 2017 mostly in LWC, Apex . I love working on open-source projects.</h3>
+<h4 align="center">Writing code mainly in JS, C++, and PHP, and currently working in the Salesforce tech stack, mostly in LWC and Apex. I love working on open-source projects.</h3>
 
 <p align="left"> <a href="https://github.com/Sarveshgithub"><img src="https://github-profile-trophy.vercel.app/?username=sarveshgithub" alt="sarveshgithub" /></a> </p>
 
