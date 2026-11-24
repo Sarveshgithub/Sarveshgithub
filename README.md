@@ -26,7 +26,6 @@
 - 📫 How to reach me **sarveshkumar574@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sarvesh-kumar](https://www.linkedin.com/in/sarvesh-kumar)
-- ⚡ Fun fact: [Althlete](https://www.strava.com/athletes/sarvesh574) 🏃🏼 (Run mostly 5k and 10K) former basketball player.
 
 ### Connect with me:
 
